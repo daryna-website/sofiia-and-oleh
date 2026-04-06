@@ -63,7 +63,7 @@ export const translations = {
   },
   it: {
     hero: {
-      names: 'Sofia & Oleg'
+      names: 'Sofiia & Oleg'
     },
     intro: {
       heading: 'Con amore nei cuori iniziamo una nuova storia insieme',
