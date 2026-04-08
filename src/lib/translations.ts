@@ -67,7 +67,7 @@ export const translations = {
     },
     intro: {
       heading: 'Con amore nei cuori iniziamo una nuova storia insieme',
-      text: 'Vi invitiamo a diventare parte del nostro giorno speciale e a condividere con noi la gioia di costruire una famiglia.'
+      text: 'Vi invitiamo a far parte del nostro giorno speciale e a condividere con noi la gioia di costruire una famiglia.'
     },
     countdown: {
       heading: 'Manca al grande giorno:',
