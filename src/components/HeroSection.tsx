@@ -12,7 +12,7 @@ export function HeroSection() {
         className="absolute inset-0 w-full h-full bg-cover bg-[center_20%] md:bg-[center_30%] bg-no-repeat"
         style={{
           backgroundImage:
-            'url("/wedding.jpg")',
+            'url("https://iili.io/B0uUnSV.jpg")',
         }}
       />
 
@@ -21,7 +21,7 @@ export function HeroSection() {
         className="absolute inset-0 w-full h-full"
         style={{
           background:
-            'linear-gradient(180deg, rgba(26, 23, 20, 0.84) 0%, rgba(26, 23, 20, 0.28) 48%, rgba(26, 23, 20, 0) 72%)',
+            'linear-gradient(0deg, rgba(26,23,20,0.84) 0%, rgba(26,23,20,0) 100%)',
         }}
       />
 
