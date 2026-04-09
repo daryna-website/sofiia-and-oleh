@@ -12,7 +12,7 @@ export function HeroSection() {
         className="absolute inset-0 w-full h-full bg-cover bg-[center_20%] md:bg-[center_30%] bg-no-repeat"
         style={{
           backgroundImage:
-            'url("/images/wedding.jpg")',
+            'url("/wedding.jpg")',
         }}
       />
 
