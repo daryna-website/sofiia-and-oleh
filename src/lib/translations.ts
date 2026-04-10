@@ -18,12 +18,12 @@ export const translations = {
       heading: 'Програма дня',
       items: [
       {
-        time: '11:00',
+        time: '15:00',
         title: 'Церемонія вінчання',
         location: 'Chiesa di San Pietro in Vincoli'
       },
       {
-        time: '12:00',
+        time: '16:00',
         title: 'Фотосесія з гостями',
         location: 'Chiesa di San Pietro in Vincoli'
       },
@@ -80,12 +80,12 @@ export const translations = {
       heading: 'Programma della giornata',
       items: [
       {
-        time: '11:00',
+        time: '15:00',
         title: 'Cerimonia nuziale',
         location: 'Chiesa di San Pietro in Vincoli'
       },
       {
-        time: '12:00',
+        time: '16:00',
         title: 'Servizio fotografico con gli ospiti',
         location: 'Chiesa di San Pietro in Vincoli'
       },
