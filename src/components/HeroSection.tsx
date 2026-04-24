@@ -12,7 +12,7 @@ export function HeroSection() {
         className="absolute inset-0 w-full h-full bg-cover bg-[center_20%] md:bg-[center_30%] bg-no-repeat"
         style={{
           backgroundImage:
-            'url("/https://www.dropbox.com/scl/fi/b04dngskpcb9a6wa5yq0w/wedding.jpg?rlkey=t9iqmk07rkyvbhtz917dng2g1&st=fc391uha&raw=1")',
+            'url("/https://ucbe20166dc960aa47dd4c446069.dl.dropboxusercontent.com/cd/0/inline/C_OQTyawX7UF8lbZ-JM32Cg8sB_1D_VkoiWSIEKEAMHmFz58ghsE8PvTaYDfzS42Ipy9TtShJ7kjyD3PrxdDC3o9irk05CDt2nQVA2vsJJaDlBRBKvL7jZwffKlbIUQo61TgATnc2ABnOj3v_ISJYHhO/file#")',
         }}
       />
 
