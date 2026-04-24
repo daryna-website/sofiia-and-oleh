@@ -12,7 +12,7 @@ export function HeroSection() {
         className="absolute inset-0 w-full h-full bg-cover bg-[center_20%] md:bg-[center_30%] bg-no-repeat"
         style={{
           backgroundImage:
-            'url("/https://iili.io/B0uUnSV.jpg")',
+            'url("/https://www.dropbox.com/scl/fi/b04dngskpcb9a6wa5yq0w/wedding.jpg?rlkey=t9iqmk07rkyvbhtz917dng2g1&st=fc391uha&raw=1")',
         }}
       />
 
